@@ -1,0 +1,22 @@
+2018/01/26 16:05:43 [I] hello123
+2018/01/26 16:05:43 [E] hello123456
+web-go/log.Error
+	D:/Go/GOPATH/src/web-go/log/log.go:124
+main.main
+	D:/Go/GOPATH/src/web-go/main.go:11
+runtime.main
+	D:/Go/src/runtime/proc.go:185
+runtime.goexit
+	D:/Go/src/runtime/asm_amd64.s:2197
+2018/01/26 16:05:43 [W] warning ...
+2018/01/26 16:39:12 [I] hello123
+2018/01/26 16:39:12 [E] hello123456
+web-go/log.Error
+	D:/Go/GOPATH/src/web-go/log/log.go:126
+main.main
+	D:/Go/GOPATH/src/web-go/main.go:11
+runtime.main
+	D:/Go/src/runtime/proc.go:185
+runtime.goexit
+	D:/Go/src/runtime/asm_amd64.s:2197
+2018/01/26 16:39:12 [W] warning ...

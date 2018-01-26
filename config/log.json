@@ -1,0 +1,10 @@
+{
+  "dir": "log",
+  "maxLines": 100000,
+  "maxsize": 1024000,
+  "daily": true,
+  "maxdays": 30,
+  "rotate": true,
+  "async": false,
+  "console": false
+}
