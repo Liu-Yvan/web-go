@@ -26,10 +26,6 @@ type LogConfig struct {
 	Perm     string `json:"perm"`
 }
 
-type FileConfig struct {
-	Filename string `json:"filename"`
-}
-
 // 获取默认配置
 func getDefaultConfig() config.Configer {
 	conf, err := config.NewConfig("json", configPath)
